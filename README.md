@@ -1,3 +1,5 @@
+## README
+
 This is an application to learning React from the Udemy course "React JS + Redux + ES6. Completo ¡De 0 a experto! (español)" by Emiliano Ocariz.
 
 
