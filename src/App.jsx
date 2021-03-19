@@ -41,7 +41,9 @@ const App = () => {
               setStack(`${stack}${operation}`)
             }} 
             onClickEqual={equal => {
-              setStack(eval(stack).toString())
+              if (stack) {
+                setStack(eval(stack).toString())
+              }
             }}
         />
     </main>)
