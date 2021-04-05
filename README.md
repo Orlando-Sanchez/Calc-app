@@ -5,6 +5,10 @@ This is an application to learning React from the Udemy course "React JS + Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+https://nice-calculator-app.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
